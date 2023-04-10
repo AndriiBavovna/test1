@@ -10,3 +10,4 @@ doing some changes in cloned txt file
 
 test data4
 This data is for merge to master branch
+added some new info
