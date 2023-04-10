@@ -11,3 +11,7 @@ doing some changes in cloned txt file
 test data4
 This data is for merge to master branch
 added some new info
+
+test data5
+some other info:
+1 2 3 etc.
