@@ -1,2 +1,12 @@
-Hi Arthur, if you are reading this, have a nice day 
+test data1
+test data: some data
+StR: 1 2 3
 
+test data2
+test data: some data2
+
+test data3
+doing some changes in cloned txt file
+
+test data4
+This data is for merge to master branch
